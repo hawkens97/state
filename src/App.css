@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: #87e9b8b7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+button {
+  background-color: aqua;
+  border: none;
+  height: 40px;
+  width: 100px;
+  border-radius: 10%;
+  font-size: 15px;
+  font-weight: 700;
+  position: sticky;
+  left: 100px;
+  right: auto;
+  top: 2%;
+}
+
+h2 {
+  color: rgb(108, 62, 27);
+  text-decoration: underline;
+}
+h3 {
+  color: black;
+  font-family: "Ubuntu", sans-serif;
+}
+h4 {
+  color: rebeccapurple;
+  font-family: "Ubuntu", sans-serif;
+}
+h1 {
+  font-family: "Fruktur", cursive;
+}
